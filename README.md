@@ -25,18 +25,23 @@ The purpose of this project was to identify employees that will be retireing so 
 
 ## Summary:
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+To help summarize this project, I have ran new queries to help answer the two questions below:
 
-** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+**How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 By summing up the retiring_titles counts, one can see that 90,398 total roles will need to be filled in the comming years.
 
 <img width="403" alt="SUM_Of_Title_Counts" src="https://user-images.githubusercontent.com/82424250/121818250-9c30f600-cc4b-11eb-9ff2-d2f25faaf819.png">
 
 
-** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 Considering that about 1,500 employees are listed as mentorship eligible and 90,398 jobs will open up, I would say no. A 1 to 9 mentorship ratio is difficult to cover. That being said, the eligible mentors is not entirely accurate. It only includes mentors whos birth date is 1965 and there are plenty of employess from 1965 through 1980 who have the capability to mentor. To show this, I ran another query creating a new mentorship eligible list to express this point. 
 
 <img width="594" alt="Eligable Mentors from 1960-1965" src="https://user-images.githubusercontent.com/82424250/121818921-ddc3a000-cc4f-11eb-8f0a-e8b02aa967f2.png">
 
 As you can see, including employees from 1960 through 1965 provides enough eligable mentors for new roles. In this case the new role to mentor ration is closer to 1 to 1 rather than 1 to 9.
+
+### Conclusion
+
+Although a high number of positions will need to be filled, Pewlett-Hackard has enough senoired employees to mentor the people who will be filling these roles. 
