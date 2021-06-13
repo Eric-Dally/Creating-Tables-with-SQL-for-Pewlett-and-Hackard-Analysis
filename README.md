@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of analysis:
-The purpose of the new analysis is well defined. (3 pt)
+The purpose of this project was to identify employees that could be retireming soon so that Pewlett_Hackard can start planning to fill vacant positions. 
 
 ## Results:
 
