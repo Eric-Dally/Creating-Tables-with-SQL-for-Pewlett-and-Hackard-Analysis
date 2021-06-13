@@ -3,7 +3,7 @@
 ## Overview of analysis:
 
 ### Purpose:
-The purpose of this project was to identify employees that could be retireming soon so that Pewlett_Hackard can start planning to fill vacant positions. 
+The purpose of this project was to identify employees that soon to be retireing so that Pewlett_Hackard can start planning to fill vacant positions. 
 
 ## Results:
 ### Retirement Title Table:
