@@ -25,7 +25,7 @@ The purpose of this project was to identify employees that will be retireing so 
 
 ## Summary:
 
-To help summarize this project, I have ran new queries to help answer the two questions below:
+To help summarize this project, I have ran new queries to help answer the questions below:
 
 ***How many roles will need to be filled as the "silver tsunami" begins to make an impact?***
 
