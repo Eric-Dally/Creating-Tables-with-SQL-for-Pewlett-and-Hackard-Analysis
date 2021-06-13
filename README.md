@@ -36,7 +36,7 @@ By summing up the retiring_titles counts, one can see that 90,398 total roles wi
 
 ***Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?***
 
-Considering that about 1,500 employees are listed as mentorship eligible and 90,398 jobs will open up, I would say no. A 1 to 9 mentorship ratio would be a challenge to teach the next generation of employees. That being said, the eligible mentors is not entirely accurate. It only includes mentors whos birth date is 1965 and there are plenty of employess from 1960 through 1965 who have the capability to mentor. To illustrate this point, I creating a new mentorship eligiblilty list including employees from 1960. 
+Considering that about 1,500 employees are listed as mentorship eligible and 90,398 jobs will open up, I would say no. A 1 to 9 mentorship ratio would be a challenge to teach the next generation of employees. That being said, the eligible mentors is not entirely accurate. It only includes mentors whos birth date is 1965 and there are plenty of employess from 1960 through 1965 who have the capability to mentor. To illustrate this point, I creating a new mentorship eligiblilty list including these employees. 
 
 <img width="594" alt="Eligable Mentors from 1960-1965" src="https://user-images.githubusercontent.com/82424250/121818921-ddc3a000-cc4f-11eb-8f0a-e8b02aa967f2.png">
 
