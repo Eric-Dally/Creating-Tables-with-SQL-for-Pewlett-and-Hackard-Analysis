@@ -40,8 +40,8 @@ Considering that about 1,500 employees are listed as mentorship eligible and 90,
 
 <img width="594" alt="Eligable Mentors from 1960-1965" src="https://user-images.githubusercontent.com/82424250/121818921-ddc3a000-cc4f-11eb-8f0a-e8b02aa967f2.png">
 
-As you can see, including employees from 1960 through 1965 provides enough eligable mentors for new roles. In this case the new role to mentor ration is closer to 1 to 1 rather than 1 to 9.
+As you can see, including these employees provides enough eligable mentors for filling vacant roles. In this case, the new role to mentor ratio is closer to 1 to 1 rather than 1 to 9.
 
 ### Conclusion
 
-Although a high number of positions will need to be filled, Pewlett-Hackard has enough senoired employees to mentor the people who will be filling these roles. 
+Although a high number of positions will need to be filled, Pewlett-Hackard has enough senior employees to mentor the people who will be filling these positions. 
