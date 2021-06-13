@@ -29,6 +29,11 @@ Summary: Provide high-level responses to the following questions, then provide t
 
 ** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+By summing up the retiring_titles counts, one can see that 90,398 total roles will need to be filled in the comming years.
+
+<img width="403" alt="SUM_Of_Title_Counts" src="https://user-images.githubusercontent.com/82424250/121818250-9c30f600-cc4b-11eb-9ff2-d2f25faaf819.png">
+
+
 ** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
